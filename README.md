@@ -30,4 +30,3 @@ If you enjoy dbfolder, consider [buy me a coffee](https://www.buymeacoffee.com/5
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/5tsytn22v9Z)
 
-Adding a weird line
